@@ -10,18 +10,16 @@ function validate(){
 
 }
 
-// function validate(Callback){
-//     Callback();
-// }
+// function validate(usrnm,psswrd,callback){
+//   if(username.value=="admin" && password.value=="12345"){
+//       return true;
+//        }
 
-// function display(){
-//     if(username.value=="admin" && password.value=="12345"){
-//         return true;
-//          }
-
-//     else {
-     // alert("email id or  password is wrong");
-//         return false;  
-//             }
+//   else {
+//       alert("email id or password is wrong");
+//       return false;  
+//           }
 
 // }
+
+// validate(usrnm,psswrd,display);
